@@ -1,1 +1,1 @@
-This is a data analysis visualization project which is used to analyse stock market
+This is a machine learning project which is used to analyse stock market
